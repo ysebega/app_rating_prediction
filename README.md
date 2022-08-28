@@ -1,2 +1,2 @@
-# app_rating_prediction
+# Application Rating Prediction
 Project description coming soon...
